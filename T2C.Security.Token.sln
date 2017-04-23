@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2C.Security.Token", "T2C.Security.Token\T2C.Security.Token.csproj", "{15FB705F-8C09-4B12-8406-5E12711A920B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2C.Security.Common", "T2C.Security.Common\T2C.Security.Common.csproj", "{4AC14AAD-527F-4EF8-9BDD-0EF92ACBDA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2C.Security.Token.BehaviourTests", "T2C.Security.Token.BehaviourTests\T2C.Security.Token.BehaviourTests.csproj", "{E3C0AE3E-A573-41FA-9D89-594446C02BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FB705F-8C09-4B12-8406-5E12711A920B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FB705F-8C09-4B12-8406-5E12711A920B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FB705F-8C09-4B12-8406-5E12711A920B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FB705F-8C09-4B12-8406-5E12711A920B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC14AAD-527F-4EF8-9BDD-0EF92ACBDA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC14AAD-527F-4EF8-9BDD-0EF92ACBDA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC14AAD-527F-4EF8-9BDD-0EF92ACBDA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC14AAD-527F-4EF8-9BDD-0EF92ACBDA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C0AE3E-A573-41FA-9D89-594446C02BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C0AE3E-A573-41FA-9D89-594446C02BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C0AE3E-A573-41FA-9D89-594446C02BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C0AE3E-A573-41FA-9D89-594446C02BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
