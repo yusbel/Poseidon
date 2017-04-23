@@ -15,7 +15,7 @@ using T2C.Security.Token.Ports.Dtos;
 namespace T2C.Security.Token.BehaviourTests
 {
     [TestClass]
-    public class WhenMobileRequest : BaseTest
+    public class WhenClientRequest : BaseTest
     {
         [TestMethod]
         public void Given_A_Valid_OAuth_AccessToken_Signed_Then_Validate_Return_True()
