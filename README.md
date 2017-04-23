@@ -1,4 +1,4 @@
-# Dotnet crypto protector service
+# Dotnet core crypto protector service
 
 Having fun with crypto and dotnetcore.
 
