@@ -5,7 +5,7 @@ Having fun with crypto and dotnetcore.
 ## Getting Started
 
 Clone and play.
-API schema: http://localhost:64058/swagger/index.html
+Swagger API schema: http://localhost:64058/swagger/index.html
 
 ### Prerequisites
 
